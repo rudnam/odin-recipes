@@ -1,4 +1,5 @@
 # odin-recipes
-#### Link: (no link yet)
+#### Link: https://rudnam.github.io/odin-recipes/
 ## Description:
-First project in the Odin Project using html.
+First project in The Odin Project using html.
+- Usage of anchors, img, lists, and basic structure of html
